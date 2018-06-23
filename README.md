@@ -5,4 +5,5 @@ Decorator
 Observer
 Prototype
 Singleton
-
+Strategy
+Composite
