@@ -7,3 +7,4 @@ Prototype
 Singleton
 Strategy
 Composite
+Facade
